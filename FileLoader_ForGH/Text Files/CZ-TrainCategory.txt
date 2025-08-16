@@ -1,0 +1,9 @@
+Czech Train Type Categories
+
+Osobni = S
+Spesny = Sp
+Express = Ex
+Euro City = Ec
+Euro Night = EN
+Super City = SC
+Regio Jet = Rj

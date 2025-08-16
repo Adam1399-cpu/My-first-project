@@ -1,0 +1,6 @@
+Atributes:
+
+XP: loc[135, 11, -25]
+XPLevel: [1.2]
+XPGives: [12p]
+XPLasts: [185 S]
